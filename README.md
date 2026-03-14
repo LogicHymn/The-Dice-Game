@@ -4,48 +4,64 @@
 The Dice Game is a simple browser-based game built using **HTML, CSS, and JavaScript**.  
 Two players roll a dice, and the player with the higher number wins the round. If both dice show the same number, the game results in a draw.
 
----
-
-## 🚀 Features
-- Random dice generation on button click  
-- Two-player dice comparison  
-- Dynamic dice image updates using JavaScript  
-- Winner announcement based on dice values  
-- Simple and clean UI  
+This project was created to practice **DOM manipulation and random number generation in JavaScript**.
 
 ---
 
-## 🛠️ Tech Stack
-- **HTML5**
-- **CSS3**
-- **JavaScript (DOM Manipulation)**
+# 🚀 Features
+- Random dice generation
+- Two-player dice comparison
+- Dynamic dice image updates using JavaScript
+- Winner announcement based on dice values
+- Simple and clean UI
 
 ---
 
-## 📂 Project Structure
+# 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript (DOM Manipulation)
+
+---
+
+# 📂 Project Structure
 ```
-TheDice/
-│── image/          # Dice images
-│── index.html      # Main game page
-│── script.js       # Game logic
-│── style.css       # Styling for the UI
-│── README.md
+dice-game/
+│
+├── assets/
+│   └── images/
+│       ├── dice1.png
+│       ├── dice2.png
+│       ├── dice3.png
+│       ├── dice4.png
+│       ├── dice5.png
+│       └── dice6.png
+│
+├── src/
+│   ├── css/
+│   │   └── style.css
+│   │
+│   └── js/
+│       └── script.js
+│
+├── index.html
+├── README.md
+└── .gitignore
 ```
 
 ---
 
-## ▶️ How to Run
+# ▶️ How to Run
 
 Clone the repository
 
 ```
-git clone https://github.com/LogicHymn/The-Dice-Game.git
+git clone https://github.com/LogicHymn/dice-game.git
 ```
 
 Open the project folder.
 
-Run using **VS Code Live Server**
-
+Run using **VS Code Live Server**  
 or simply open:
 
 ```
@@ -56,7 +72,7 @@ in your browser.
 
 ---
 
-## 🧠 Game Logic
+# 🧠 Game Logic
 
 Two random numbers are generated between **1 and 6** using JavaScript.
 
@@ -75,30 +91,30 @@ The program compares both numbers:
 
 ---
 
-## 🎯 Purpose
+# 🎯 Purpose
 
 This project was created as a practice exercise to understand:
 
-- DOM manipulation  
-- Random number generation  
-- Updating HTML elements dynamically  
-- Basic JavaScript game logic  
+- DOM manipulation
+- Random number generation
+- Updating HTML elements dynamically
+- Basic JavaScript game logic
 
 ---
 
-## ✨ Future Enhancements
-- Add dice roll animation  
-- Add score tracking system  
-- Add sound effects  
-- Add a reset / new game button  
-- Improve UI with better styling  
+# ✨ Future Enhancements
+- Add dice roll animation
+- Add score tracking system
+- Add sound effects
+- Add a reset or new game button
+- Improve UI design
 
 ---
 
-## 📄 License
+# 📄 License
 This project is created for **learning and practice purposes**.
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 Built with ❤️ while learning **JavaScript and Frontend Development**.
