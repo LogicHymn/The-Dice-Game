@@ -1,5 +1,7 @@
-# 🎲 The Dice Game
-/////
+<h1 align="center">🎲 The Dice Game</h1>
+<h3 align="center">A simple dice game built with HTML, CSS & JavaScript</h3>
+
+---
 
 The Dice Game is a simple browser-based game built using **HTML, CSS, and JavaScript**.  
 Two players roll a dice, and the player with the higher number wins the round. If both dice show the same number, the game results in a draw.
@@ -9,6 +11,7 @@ This project was created to practice **DOM manipulation and random number genera
 ---
 
 # 🚀 Features
+
 - Random dice generation
 - Two-player dice comparison
 - Dynamic dice image updates using JavaScript
@@ -17,14 +20,16 @@ This project was created to practice **DOM manipulation and random number genera
 
 ---
 
-# 🛠️ Tech Stack
-- HTML5
-- CSS3
-- JavaScript (DOM Manipulation)
+# 🛠 Tech Stack
+
+**HTML5**  
+**CSS3**  
+**JavaScript (DOM Manipulation)**
 
 ---
 
 # 📂 Project Structure
+
 ```
 dice-game/
 │
@@ -61,7 +66,8 @@ git clone https://github.com/LogicHymn/dice-game.git
 
 Open the project folder.
 
-Run using **VS Code Live Server**  
+Run using **VS Code Live Server**
+
 or simply open:
 
 ```
@@ -93,7 +99,7 @@ The program compares both numbers:
 
 # 🎯 Purpose
 
-This project was created as a practice exercise to understand:
+This project was created to practice:
 
 - DOM manipulation
 - Random number generation
@@ -103,6 +109,7 @@ This project was created as a practice exercise to understand:
 ---
 
 # ✨ Future Enhancements
+
 - Add dice roll animation
 - Add score tracking system
 - Add sound effects
@@ -112,9 +119,11 @@ This project was created as a practice exercise to understand:
 ---
 
 # 📄 License
+
 This project is created for **learning and practice purposes**.
 
 ---
 
 # 👨‍💻 Author
-Built with ❤️ while learning **JavaScript and Frontend Development**.
+
+Built with ❤️ by **Shlok Gupta**
