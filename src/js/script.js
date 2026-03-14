@@ -9,8 +9,8 @@ function playGame(){
     let player2 = getRandomDice();
 
     //Update the image
-    document.querySelector(".js-dice1").src = `assests/images/dice${player1}.png`;
-    document.querySelector(".js-dice2").src = `assests/images/dice${player2}.png`;
+    document.querySelector(".js-dice1").src = `assets/images/dice${player1}.png`;
+    document.querySelector(".js-dice2").src = `assets/images/dice${player2}.png`;
 
     let resultText = document.querySelector(".result");
 
